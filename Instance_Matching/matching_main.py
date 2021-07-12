@@ -53,7 +53,7 @@ tf.app.flags.DEFINE_string(
     'visualize_pred_base_dir', 'outputs/visualization',
     'The path of vocabulary.')
 tf.app.flags.DEFINE_string(
-    'vocab_path', 'data/vocab.txt',
+    'vocab_path', '/content/drive/MyDrive/data/vocab.txt',
     'The path of vocabulary.')
 tf.app.flags.DEFINE_integer(
     'vocab_size', 76,
